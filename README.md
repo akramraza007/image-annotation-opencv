@@ -18,7 +18,7 @@ This project is a command-line based image annotation tool built using Python an
 ## 📦 Installation
 - Clone the repository (if applicable):
 ```git clone https://github.com/akram007/image-annotation-opencv```
-cd image-annotation-opencv
+cd image-annotation
 🔧- Install dependencies:
 ```pip install opencv-python```
 
@@ -48,4 +48,3 @@ Choose an option:
 image_editor.py         # Main script
 README.md               # Project documentation
 sample.jpg              # Example image (optional)
-
