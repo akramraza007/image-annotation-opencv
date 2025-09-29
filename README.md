@@ -45,6 +45,7 @@ Choose an option:
 
 
 📁 File Structure
-image_editor.py         # Main script
-README.md               # Project documentation
-sample.jpg              # Example image (optional)
+- image_editor.py         # Main script
+- README.md               # Project documentation
+- sample.jpg              # Example image (optional)
+
