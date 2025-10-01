@@ -22,7 +22,7 @@ This project is a command-line based image annotation tool built using Python an
   ```
 - Go Into the Project Folder
   ```base
-  cd image-annotation
+  cd image-annotation-opencv
   ```
 - Install dependencies using pip if not already installed:
   ```base
@@ -44,6 +44,7 @@ Follow the on-screen prompts to:
 - image_editor.py         # Main script
 - README.md               # Project documentation
 - sample.jpg              # Example image (optional)
+
 
 
 
